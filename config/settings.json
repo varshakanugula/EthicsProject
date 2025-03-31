@@ -1,0 +1,4 @@
+{
+    "scan_file_types": [".txt", ".pdf", ".docx"],
+    "sensitive_patterns": ["Email Address", "Credit Card", "Phone Number"]
+}
